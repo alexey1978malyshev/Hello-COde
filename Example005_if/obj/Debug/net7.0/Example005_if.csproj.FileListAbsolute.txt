@@ -1,0 +1,15 @@
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.csproj.AssemblyReference.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.AssemblyInfoInputs.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.AssemblyInfo.cs
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.csproj.CoreCompileInputs.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\bin\Debug\net7.0\Example005_if.exe
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\bin\Debug\net7.0\Example005_if.deps.json
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\bin\Debug\net7.0\Example005_if.runtimeconfig.json
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\bin\Debug\net7.0\Example005_if.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\bin\Debug\net7.0\Example005_if.pdb
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\refint\Example005_if.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.pdb
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\Example005_if.genruntimeconfig.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\obj\Debug\net7.0\ref\Example005_if.dll

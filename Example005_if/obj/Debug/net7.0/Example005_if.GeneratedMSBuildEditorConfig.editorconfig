@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = Example001
+build_property.ProjectDir = c:\Users\A9219\Documents\geek brains\C#\lec1\Example001\
+=======
+build_property.RootNamespace = Example005_if
+build_property.ProjectDir = c:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example005_if\
+>>>>>>> 4aeca154e72532d021f988074539d13904c751e3:Example005_if/obj/Debug/net7.0/Example005_if.GeneratedMSBuildEditorConfig.editorconfig

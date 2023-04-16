@@ -1,0 +1,15 @@
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\bin\Debug\net7.0\Example006_base.exe
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\bin\Debug\net7.0\Example006_base.deps.json
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\bin\Debug\net7.0\Example006_base.runtimeconfig.json
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\bin\Debug\net7.0\Example006_base.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\bin\Debug\net7.0\Example006_base.pdb
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.csproj.AssemblyReference.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.AssemblyInfoInputs.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.AssemblyInfo.cs
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.csproj.CoreCompileInputs.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\refint\Example006_base.dll
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.pdb
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\Example006_base.genruntimeconfig.cache
+C:\Users\алексей\Downloads\ГикБрейнс\C#\lec1\Hello-COde\Example006_base\obj\Debug\net7.0\ref\Example006_base.dll
